@@ -1,0 +1,23 @@
+h1 {
+    color: whitesmoke; 
+    text-align: center;
+ }
+ 
+ .grid{
+    background-color: aquamarine;  
+    justify-content: stretch;
+  }
+  
+  .yeet{
+    background-color: #5be386 ;
+  }
+
+  .lolo{
+    background-color: bisque;  
+    text-decoration: wavy ;
+  }
+
+  .lol{
+    background-color: #878787;
+    text-decoration: wavy;  
+  }

@@ -1,0 +1,22 @@
+h1 {
+   color: whitesmoke; 
+   text-align: center;
+}
+
+
+.header{
+    background-color: #878787;
+    display: flex;
+    justify-content: space-between;
+}
+
+body{
+  background-color: #a9a9a9;
+  display: contents;   
+  
+}
+
+p,h2{
+    text-align: start;
+}
+
