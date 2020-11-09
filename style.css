@@ -13,10 +13,33 @@ h1 {
 body{
   background-color: #a9a9a9;
   display: contents;   
-  
 }
+
+.header h1 {
+  margin-left: 860px;
+}
+
+a:link {
+  color: blanchedalmond;
+}
+
+a:visited{
+  color: aquamarine;
+}
+
+.item p {
+  opacity: 0;
+} 
+
+.item:hover p {
+  opacity: 1;
+}
+
+.item:hover img {
+  opacity: 0.1; 
+}
+
 
 p,h2{
     text-align: start;
 }
-
